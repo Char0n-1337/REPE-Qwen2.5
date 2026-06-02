@@ -5,6 +5,7 @@
 2、基于上述的对比数据集作为提示词提取出的四个控制向量，分别为layer14，16，18，20
 
 模型文件为千问Qwen2.5-0.5B-Instruct
+
 output文件夹下是使用对比数据集作为提示词输入，全层扫描的结果记录
 
 representation-engineering为论文原作者发表在GitHub上的完整克隆
