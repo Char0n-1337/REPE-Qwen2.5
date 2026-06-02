@@ -1,4 +1,5 @@
 数据文件夹下包含：
+
 1、原始数据集morality_templated_pairs.json，是由data/ethics/commonsense/cm_train.csv提取而来，提取代码在同目录下的process_local_cm.py
 
 2、基于上述的对比数据集作为提示词提取出的四个控制向量，分别为layer14，16，18，20
