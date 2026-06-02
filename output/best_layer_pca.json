@@ -1,0 +1,7 @@
+{
+  "best_negative_layer": -23,
+  "best_actual_layer": 1,
+  "best_accuracy": 0.639751552795031,
+  "explained_variance": 0.13464685936999954,
+  "vector_path": "E:\\Ajou\u4f5c\u4e1a\\AI Reserch\\REPE\u590d\u73b0\\vectors\\honesty_vector_pca.npy"
+}
