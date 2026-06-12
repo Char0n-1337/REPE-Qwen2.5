@@ -37,4 +37,6 @@ scripts文件夹下记录了所有代码
 
 6.11记录 引入SAE表征 代码未上传
 
+SAE表征提取来自https://huggingface.co/HuggingAnalist/sae-qwen2.5-0.5B-res/tree/main
+
 RePE 越狱方向在残差空间表现为单一主方向，但在 SAE 空间中呈现出高度分布式的特征组织结构。Layer20 之所以具有最强越狱能力，不是因为方向不同，而是因为其调动了数量远多于早期层的高响应 SAE 特征。下一步将通过 特征消融 验证这些特征究竟是关键因子还是冗余表征。
